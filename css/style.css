@@ -1,0 +1,33 @@
+/* to declare id you have to put """#"""" */
+/* to declare class use ****.****** "dot" */
+/* padding is the inner space of the element / create space inside the elements border (for innner spacing) */
+/* margin is the outer space of the element / create space outside the elements border (for outer spacing) */
+/* if you want to target a single element you use id && if you want to target multiple elements you use class */
+
+#links{
+    border-style: ridge;
+    border-color: blue;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+}
+
+
+
+#section1{
+    background-color: purple;
+    color:white;
+    border-style: groove;
+    /* margin: 20px 10px 20px 5px;  */
+    border-color: black;
+    
+}
+
+#section2{
+    background-color: bisque;
+
+}
+
+
+
+
+
